@@ -2,6 +2,12 @@
 
 This readme will describe how to use and install the OpenCSR software suite.
 
+## Using the terminal
+
+- Open the terminal
+- Change to opencsr directory
+  - `cd path/to/opencsr`
+
 ## GIT
 
 - To add a file for commit, use `git add <filename>`
