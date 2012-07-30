@@ -1,0 +1,6 @@
+<?php
+
+// initial php file
+
+
+?>
